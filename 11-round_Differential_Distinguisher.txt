@@ -1,0 +1,38 @@
+Number of Active S-boxes: 11.0
+FOUND Optimal Probability: 32.0
+Differential Probability for 11 rounds of LICID_64 is 2^{-32.0}
+The input difference of the round 1 is:
+0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  1111  0000  0000  :: Hex => 0000  0000  0000  0f00   :: 0x0000000000000f00 :: Probability => 2^{-0}
+
+The input difference of the round 2 is:
+0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0010  0000  0000  0000  0000  :: Hex => 0000  0000  0002  0000   :: 0x0000000000020000 :: Probability => 2^{-2}
+
+The input difference of the round 3 is:
+0000  0000  0000  0000  0000  0000  0000  1000  0000  0000  0000  0000  0000  0000  0000  0000  :: Hex => 0000  0008  0000  0000   :: 0x0000000800000000 :: Probability => 2^{-3}
+
+The input difference of the round 4 is:
+0000  0000  0000  1000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  :: Hex => 0008  0000  0000  0000   :: 0x0008000000000000 :: Probability => 2^{-3}
+
+The input difference of the round 5 is:
+0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  1000  :: Hex => 0000  0000  0000  0008   :: 0x0000000000000008 :: Probability => 2^{-3}
+
+The input difference of the round 6 is:
+0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  1000  0000  0000  0000  0000  :: Hex => 0000  0000  0008  0000   :: 0x0000000000080000 :: Probability => 2^{-3}
+
+The input difference of the round 7 is:
+0000  0000  0000  0000  0000  0000  0000  1000  0000  0000  0000  0000  0000  0000  0000  0000  :: Hex => 0000  0008  0000  0000   :: 0x0000000800000000 :: Probability => 2^{-3}
+
+The input difference of the round 8 is:
+0000  0000  0000  1000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  :: Hex => 0008  0000  0000  0000   :: 0x0008000000000000 :: Probability => 2^{-3}
+
+The input difference of the round 9 is:
+0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  1000  :: Hex => 0000  0000  0000  0008   :: 0x0000000000000008 :: Probability => 2^{-3}
+
+The input difference of the round 10 is:
+0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  1000  0000  0000  0000  0000  :: Hex => 0000  0000  0008  0000   :: 0x0000000000080000 :: Probability => 2^{-3}
+
+The input difference of the round 11 is:
+0000  0000  0000  0000  0000  0010  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  :: Hex => 0000  0200  0000  0000   :: 0x0000020000000000 :: Probability => 2^{-3}
+
+The input difference of the round 12 is:
+0000  0000  0001  0010  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  0000  :: Hex => 0012  0000  0000  0000   :: 0x0012000000000000 :: Probability => 2^{-3}
